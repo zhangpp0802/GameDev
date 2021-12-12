@@ -1,0 +1,10 @@
+Audio:
+Background: https://www.bensound.com/royalty-free-music/track/funky-element
+Mushroom: https://elements.envato.com/game-jump-WP5G843?utm_source=mixkit&utm_medium=referral&utm_campaign=elements_mixkit_cs_sfx_tag&_ga=2.98112223.1533648844.1638902535-1804617652.1638583326
+Jump: https://mixkit.co/free-sound-effects/game/
+Stone: https://mixkit.co/free-sound-effects/game/
+
+
+Object model:
+Mario mushroom model: https://www.cgtrader.com/free-3d-models/character/fantasy/3d-mario-mushroom
+Coins model: https://www.cgtrader.com/items/312546/download-pagebackground.mp3, coin.mp3, jump.mp3, mushroom.mp3, stone.mp3 : From bensound.com
